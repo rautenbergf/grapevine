@@ -1,0 +1,21 @@
+{
+  "name": "grapevine",
+  "displayName": "grapevine",
+  "description": "A simple dark theme for VSCode, optimized for readability.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "grapevine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grapevine-color-theme.json"
+      }
+    ]
+  }
+}
