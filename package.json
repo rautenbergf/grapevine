@@ -8,6 +8,10 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rautenbergf/grapevine.git"
+  },
   "categories": [
     "Themes"
   ],
