@@ -3,6 +3,8 @@
   "displayName": "grapevine",
   "description": "A simple dark theme for VSCode, optimized for readability.",
   "version": "0.0.2",
+  "icon": "icon.png",
+  "publisher": "rautenbergf",
   "engines": {
     "vscode": "^1.76.0"
   },
