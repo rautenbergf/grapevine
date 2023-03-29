@@ -58,7 +58,7 @@
 		"list.activeSelectionBackground": "#c7c2cc2e",
 		"list.activeSelectionForeground": "#ffffff",
 		"list.dropBackground": "#00000026",
-		"list.highlightForeground": "#f679e9",
+		"list.highlightForeground": "#fa8072",
 		"list.focusBackground": "#61f2c912",
 		"list.focusForeground": "#f7f7f7",
 		"listFilterWidget.background": "#381b3c",
