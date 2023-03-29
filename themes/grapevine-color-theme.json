@@ -314,7 +314,7 @@
 			"name": "User-defined constant",
 			"scope": "constant.character, constant.other",
 			"settings": {
-				"foreground": "#a8a1b0"
+				"foreground": "#d9d5e1"
 			}
 		},
 		{
@@ -370,14 +370,14 @@
 			"name": "Function Argument",
 			"scope": "variable.parameter, operator.rest.parameters",
 			"settings": {
-				"foreground": "#98a3c9"
+				"foreground": "#a9b7c6"
 			}
 		},
 		{
 			"name": "Variable, Property",
 			"scope": "variable.property,variable.other.property,variable.other.object.property,variable.object.property,support.variable.property",
 			"settings": {
-				"foreground": "#a8a1b0"
+				"foreground": "#808d9a"
 			}
 		},
 		{
@@ -405,7 +405,7 @@
 			"name": "Object Keys",
 			"scope": "meta.object-literal.key",
 			"settings": {
-				"foreground": "#a8a1b0"
+				"foreground": "#d9d5e1"
 			}
 		},
 		{
