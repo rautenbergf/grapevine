@@ -259,6 +259,12 @@
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#000000",
 		"debugExceptionWidget.border": "#ffffff38",
+		"editorBracketHighlight.foreground1": "#9d79ba",
+        "editorBracketHighlight.foreground2": "#daa7a1",
+        "editorBracketHighlight.foreground3": "#d8b693",
+        "editorBracketHighlight.foreground4": "#c1d998",
+        "editorBracketHighlight.foreground5": "#7dbaa1",
+        "editorBracketHighlight.foreground6": "#7e99bf",
 	},
 	"tokenColors": [
 		{
