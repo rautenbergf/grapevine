@@ -1,8 +1,13 @@
 {
   "name": "grapevine",
   "displayName": "Grapevine Theme",
-  "description": "A simple dark theme for VSCode, optimized for readability.",
-  "version": "0.0.8",
+  "description": "A versatile dark theme that focuses on semantic highlighting and readability across multiple languages.",
+  "version": "1.0.0",
+  "keywords": ["theme", "dark", "grapevine", "readable", "typescript", "rust", "javascript", "html", "react", "css"],
+  "galleryBanner": {
+		"color": "#181921",
+		"theme": "dark"
+	},
   "icon": "icon.png",
   "publisher": "rautenbergf",
   "engines": {
